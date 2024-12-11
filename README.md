@@ -1,1 +1,5 @@
-Developed predictive models for heart disease classification using machine learning techniques (Neural Networks, Decision Trees, Random Forest, Logistic Regression, KNN) to identify high-risk patients based on medical indicators such as age, cholesterol, and chest pain. Applied data preprocessing and transformation to enhance model accuracy, with the Neural Network model achieving the highest recall in predicting disease severity levels, enabling targeted intervention strategies for patient care.
+Reduced Stockouts: By improving forecast accuracy, stockouts can be reduced by 10-20%, potentially increasing sales by 5-10% as more customers find the products they need.
+
+Reduced Overstock: Accurate forecasting can decrease overstock by 15-30%, leading to a 5-10% reduction in holding costs and potentially increasing profitability by optimizing inventory levels.
+
+Improved Inventory Turnover: A better inventory turnover rate can increase store profitability by 5-15% due to reduced waste, lower storage costs, and better cash flow management.
