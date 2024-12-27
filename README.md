@@ -1,1 +1,1 @@
-Heart Disease Project
+Heart Diseases classification Project
